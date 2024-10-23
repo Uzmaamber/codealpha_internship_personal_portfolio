@@ -1,1 +1,2 @@
 # codealpha_internship_personal_portfolio
+The Personal Portfolio is a showcase of my skills and projects as a front-end web developer and designer. Built using HTML, CSS, and JavaScript, it features a responsive and visually engaging layout. The portfolio highlights my expertise in creating dynamic websites, with sections for completed projects, certificates, and social media links. The site is designed to provide a seamless browsing experience while presenting my work, creativity, and development skills in an interactive and professional manner.
